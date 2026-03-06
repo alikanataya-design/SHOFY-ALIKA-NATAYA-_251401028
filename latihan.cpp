@@ -45,7 +45,8 @@ int main ()
     total = pokok - pajak + tambah;  // hitung total gaji
 
     // output
-    cout<<"nama anda : "<<nama<<enddl;
+    cout<<"nama anda : "<<nama<<endl;
     cout<<"golongan anda : "<<gol<<endl;
     cout<<"gaji total : "<<total;
+
 }
